@@ -1,4 +1,4 @@
-# homestead_starter
+# Homestead starter script
 
 This script is written in `VBS` and compiled to make it easier to use. You can add it to your taskbar.
 
@@ -12,7 +12,6 @@ This script is written in `VBS` and compiled to make it easier to use. You can a
 - And run it you will see simple dialog with the commands.
  
 
-# Notes:
-
+# Notes
 - Will only works on windows.
 - Path to homestead should be: `%USERPROFILE%\Homestead`
