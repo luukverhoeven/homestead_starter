@@ -15,3 +15,4 @@ This script is written in `VBS` and compiled to make it easier to use. You can a
 # Notes:
 
 - Will only works on windows.
+- Path to homestead should be: `%USERPROFILE%\Homestead`
